@@ -8,5 +8,7 @@ public enum RelativeType {
     UNCLE,
     UNT,
     NEPHEW,
+    BROTHER,
+    SYSTER,
     NIECE;
 }
