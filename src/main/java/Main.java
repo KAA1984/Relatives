@@ -20,7 +20,7 @@ public class Main {
         People dadFather = new People(11,"Sergey","Kalistratov",RelativeType.GRANDFATHER);
         People dadMother = new People(12,"Nina","Kalistratova",RelativeType.GRANDMOTHER);
         People motherFather = new People(13,"Andrey","Kreschik",RelativeType.GRANDFATHER);
-        People motherMother = new People(14,"Efrosinia","Kreschik",RelativeType.GRANDMOTHER);
+        People motherMother = new People(14,"Efrosinia","Kreschika",RelativeType.GRANDMOTHER);
         People bother1wife = new People(15,"Anna","Kalistratova",RelativeType.UNT);
         People bother2wife = new People(16,"Olga","Kalistratova",RelativeType.UNT);
         People motherBrother = new People(17,"Viktor","Kreschik",RelativeType.BROTHER);
